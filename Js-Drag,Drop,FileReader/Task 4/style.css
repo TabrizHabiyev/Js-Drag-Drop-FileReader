@@ -1,0 +1,29 @@
+body
+{background-color: aliceblue;}
+.box{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+    margin: 25px auto;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight:700;
+    font-size: 24px;
+    color: wheat;
+}
+
+.area{
+    background-color: darkolivegreen;
+    width: 100px;
+    height: 100px;
+    margin: 25px auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight:700;
+    font-size: 24px;
+    color: wheat;
+}
